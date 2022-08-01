@@ -12,6 +12,6 @@
   
   <a href="https://https://www.instagram.com/erickspl/></a>
   
-  <a href="https://https://www.linkedin.com/in/erick-santos-6a1141206/></a> 
+  <a href="<https://https://www.linkedin.com/in/erick-santos-6a1141206/>></a>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
