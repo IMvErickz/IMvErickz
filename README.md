@@ -19,6 +19,6 @@
  
 <div> 
  
-  <a href="https://www.linkedin.com/in/erick-santos-6a1141206/">LInkedin</a>
+  <a href="https://www.linkedin.com/in/erick-santos-6a1141206/"> Meu perfil no Linkedin</a>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
