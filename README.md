@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://www.flaticon.com/free-icon/node-js_5968322?term=node&page=1&position=1&origin=search&related_id=5968322a">
  
 </div>
 
