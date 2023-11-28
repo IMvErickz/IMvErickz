@@ -1,5 +1,5 @@
  <div align="center">
- <h1> Erick nos CODs
+ <h1> Erick Dos Santos
 </h1>
   <a href="https://github.com/IMvErickz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMvErickz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,6 +21,7 @@
  
 <div align="center"> 
  
-  <a href="https://www.linkedin.com/in/erick-santos-6a1141206/"> Meu perfil no Linkedin</a> <br>
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/qgQUggAC3Pfv687qPC.gif';" alt="">
+  <a href="https://www.linkedin.com/in/erick-santos-6a1141206/">
+   <img align="center" alt="Rafa-CSS" height="73" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a> <br/>
 </div>
