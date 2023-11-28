@@ -1,10 +1,18 @@
  <div align="center">
  <h1> Erick Dos Santos
 </h1>
+  <br/>
+  <div align="center">
+  <h1>
+   Full Stack Developer
+  </h1>
+</div>
   <a href="https://github.com/IMvErickz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMvErickz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMvErickz&layout=compact&langs_count=16&theme=dark"/>
 <div>
+
+
  
  <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
