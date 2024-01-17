@@ -19,7 +19,6 @@
   <img align="center" alt="Rafa-HTML" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="73" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-
 </div>
 
 ##
